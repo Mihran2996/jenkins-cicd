@@ -14,6 +14,7 @@ public class CicdJavaApplication {
 		System.out.println("jjjj");
 		System.out.println("jjjj");
 		System.out.println("jjjj");
+		System.out.println("jjjj");
 	}
 
 }
