@@ -10,6 +10,7 @@ public class CicdJavaApplication {
 		SpringApplication.run(CicdJavaApplication.class, args);
 		System.out.println("");
 		System.out.println("");
+		System.out.println("ddd");
 	}
 
 }
